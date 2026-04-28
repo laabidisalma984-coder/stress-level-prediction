@@ -199,8 +199,8 @@ elif page == "📊 Analytics Hub":
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Average Stress", "5.89/10", "All Students")
     col2.metric("Your Average", f"{sum([p['stress_level'] for p in st.session_state.prediction_history]) / max(1, len(st.session_state.prediction_history)):.2f}/10", f"{len(st.session_state.prediction_history)} predictions")
-    col3.metric("Model Accuracy", "51.09%", "R² Score")
-    col4.metric("Prediction Error", "±1.42", "Average")
+    col3.metric("Model v2.0", "50.04%", "R² Score")
+    col4.metric("MAE Error", "±1.44", "Ensemble")
     
     st.divider()
     
@@ -380,4 +380,4 @@ elif page == "📱 Quick Check":
 
 # Footer
 st.divider()
-st.markdown("**Stress Predictor Pro v2.0** | 🎓 For University Students | Built with ❤️")
+st.markdown("**Stress Predictor Pro v2.1** | 🎓 Ensemble Enhanced | Built with ❤️")
