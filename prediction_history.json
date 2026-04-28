@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-04-25 16:24",
+    "stress_level": 4.48,
+    "category": "Moderate",
+    "age": 21,
+    "degree": "licence",
+    "major": "IT",
+    "sleep": "7\u20138 hours",
+    "exercise": "yes",
+    "workload": "moderate"
+  },
+  {
+    "timestamp": "2026-04-25 16:27",
+    "stress_level": 4.48,
+    "category": "Moderate",
+    "age": 21,
+    "degree": "licence",
+    "major": "IT",
+    "sleep": "7\u20138 hours",
+    "exercise": "yes",
+    "workload": "moderate"
+  },
+  {
+    "timestamp": "2026-04-26 21:38",
+    "stress_level": 4.48,
+    "category": "Moderate",
+    "age": 21,
+    "degree": "licence",
+    "major": "IT",
+    "sleep": "7\u20138 hours",
+    "exercise": "yes",
+    "workload": "moderate"
+  }
+]

@@ -1,0 +1,546 @@
+Timestamp,what's your age ,what's your degree ,what is your year of studies ,what is your major ,  How many hours do you sleep on average per night?  ,   How many hours do you spend on screens per day (excluding academic work)?  ,  Do you engage in regular physical activity ? ,"  How many caffeinated drinks (coffee, tea, energy drinks) do you consume per day?  ",  How many hours do you study per week outside of class?  ,do u have exams in the next two weeks ,  How would you rate your current academic workload?  ,"   On a scale from 1 to 10, how would you rate your current stress level?  "
+26/02/2026 23:08:06,23,cycle d'ingénieur,4th,Healthcare it,7–8 hours,2–4 hours,no,2,Less than 10 hours,no,low,6
+26/02/2026 23:12:06,22,cycle d'ingénieur,4th,Biomedical engineering ,Less than 5 hours,4–6 hours,yes,2,Less than 10 hours,no,low,8
+26/02/2026 23:16:11,25,cycle d'ingénieur,5th,IT,Less than 5 hours,More than 6 hours,no,0,Less than 10 hours,no,high,7
+26/02/2026 23:17:38,22,préparatoire intégrée,2nd,AI,5–6 hours,2–4 hours,no,0,Less than 10 hours,yes,moderate,7
+26/02/2026 23:20:00,22,cycle d'ingénieur,1st,Telecommunications engineering ,7–8 hours,More than 6 hours,no,1,10–20 hours,yes,moderate,4
+26/02/2026 23:24:42,21,licence,3rd,Network security,7–8 hours,More than 6 hours,no,1,Less than 10 hours,no,high,3
+26/02/2026 23:26:10,22,cycle d'ingénieur,4th,Biomedical engineering ,5–6 hours,2–4 hours,no,2,10–20 hours,yes,moderate,6
+26/02/2026 23:34:47,18,pharmacie,1st,Pharmacie,7–8 hours,4–6 hours,yes,0,Less than 10 hours,yes,moderate,5
+26/02/2026 23:39:01,23,mastère,2nd,Master pro en systeme de telecommunication et réseaux ,More than 8 hours,2–4 hours,no,2,10–20 hours,no,high,5
+26/02/2026 23:39:21,20,licence,1st,LAW ,7–8 hours,4–6 hours,yes,1,10–20 hours,no,moderate,4
+26/02/2026 23:46:28,22,cycle d'ingénieur,2nd,Medical informatics ,7–8 hours,4–6 hours,no,0,Less than 10 hours,no,high,6
+26/02/2026 23:50:34,19,licence,1st,Biotechnology ,Less than 5 hours,More than 6 hours,no,1,Less than 10 hours,no,moderate,10
+27/02/2026 00:01:43,26,cycle d'ingénieur,5th,Mécatronique ,7–8 hours,More than 6 hours,yes,1,Less than 10 hours,no,high,6
+27/02/2026 00:10:04,24,mastère,2nd,Business law master ,7–8 hours,4–6 hours,yes,1,20–30 hours,no,moderate,8
+27/02/2026 00:13:07,22,licence,3rd,English ,7–8 hours,More than 6 hours,yes,1,Less than 10 hours,yes,moderate,10
+27/02/2026 00:14:54,22,cycle d'ingénieur,1st,Computer science ,Less than 5 hours,More than 6 hours,yes,0,Less than 10 hours,no,low,4
+27/02/2026 00:16:29,19,licence,1st,Law,Less than 5 hours,More than 6 hours,no,2,Less than 10 hours,no,low,6
+27/02/2026 00:23:00,19,licence,1st,Psychology,5–6 hours,More than 6 hours,no,1,20–30 hours,yes,high,3
+27/02/2026 00:26:16,27,doctorat,1st,Architecture and urban planning,More than 8 hours,More than 6 hours,yes,3 or more,More than 30 hours,no,high,7
+27/02/2026 00:33:45,21,licence,1st,Administration des affaires ,5–6 hours,Less than 2 hours,no,1,Less than 10 hours,yes,moderate,5
+27/02/2026 01:18:40,21,licence,2nd,Sc de gestion,5–6 hours,4–6 hours,yes,1,Less than 10 hours,no,low,1
+27/02/2026 10:52:13,22,cycle d'ingénieur,1st,Biomedical Engineering,5–6 hours,Less than 2 hours,no,3 or more,Less than 10 hours,yes,moderate,10
+27/02/2026 10:59:00,20,Bachelor degree at TBS,2nd,The science of Business administration ,5–6 hours,More than 6 hours,no,0,10–20 hours,yes,moderate,3
+27/02/2026 20:55:02,23,mastère,2nd,Graphic design,7–8 hours,4–6 hours,no,1,Less than 10 hours,no,moderate,7
+27/02/2026 20:56:05,19,licence,1st,Économie ,7–8 hours,More than 6 hours,no,2,Less than 10 hours,yes,moderate,6
+27/02/2026 23:30:09,23,mastère,1st,Droit / law,5–6 hours,2–4 hours,no,3 or more,Less than 10 hours,no,moderate,10
+28/02/2026 12:41:41,19,médecine,1st,Medicine,Less than 5 hours,2–4 hours,no,0,More than 30 hours,no,high,8
+28/02/2026 16:59:42,19,licence,1st,Sciences de gestion ,7–8 hours,4–6 hours,no,3 or more,10–20 hours,yes,moderate,6
+28/02/2026 18:00:17,22,cycle d'ingénieur,2nd,Mechanical engineering ,7–8 hours,2–4 hours,yes,1,10–20 hours,yes,moderate,3
+28/02/2026 19:00:33,21,licence,1st,inf de gestion,5–6 hours,More than 6 hours,no,1,Less than 10 hours,yes,low,10
+28/02/2026 19:03:43,22,cycle d'ingénieur,4th,Industrial computer science,More than 8 hours,4–6 hours,yes,1,Less than 10 hours,yes,moderate,4
+28/02/2026 19:06:14,22,cycle d'ingénieur,2nd,GII,Less than 5 hours,More than 6 hours,no,1,Less than 10 hours,yes,high,10
+28/02/2026 19:18:47,22,cycle d'ingénieur,4th,Informatique ,7–8 hours,4–6 hours,no,1,10–20 hours,yes,low,4
+28/02/2026 21:57:48,23,cycle d'ingénieur,2nd,STIC,7–8 hours,4–6 hours,no,2,10–20 hours,yes,moderate,4
+28/02/2026 23:06:52,21,cycle d'ingénieur,2nd,Telecommunications,5–6 hours,4–6 hours,yes,1,10–20 hours,yes,moderate,8
+02/03/2026 14:17:35,20,licence,1st,Web development,7–8 hours,4–6 hours,no,0,10–20 hours,yes,moderate,6
+02/03/2026 20:23:20,23,cycle d'ingénieur,4th,CIGBS2,5–6 hours,4–6 hours,no,2,10–20 hours,no,high,10
+08/03/2026 22:05:05,20,licence,1st,Licence,5–6 hours,2–4 hours,yes,1,10–20 hours,yes,moderate,5
+21/03/2026 00:47:49,22,licence,2nd,IT,Less than 5 hours,More than 6 hours,no,3 or more,Less than 10 hours,yes,low,8
+01/04/2026 21:19:51,22,cycle d'ingénieur,2nd,BIOMEDICAL ,7–8 hours,4–6 hours,yes,1,Less than 10 hours,no,low,2
+01/04/2026 21:24:42,22,cycle d'ingénieur,2nd,Biomedical engineering ,5–6 hours,More than 6 hours,no,1,Less than 10 hours,yes,moderate,6
+01/04/2026 21:47:42,22,cycle d'ingénieur,4th,ttis,5–6 hours,2–4 hours,no,0,Less than 10 hours,no,moderate,3
+01/04/2026 21:58:59,23,cycle d'ingénieur,4th,engineering,5–6 hours,4–6 hours,yes,1,Less than 10 hours,no,low,2
+02/04/2026 00:09:51,22,cycle d'ingénieur,4th,**,5–6 hours,4–6 hours,no,0,10–20 hours,no,moderate,3
+07/04/2026 15:51:23,22,cycle d'ingénieur,4th,Cylce GBM,Less than 5 hours,2–4 hours,no,1,10–20 hours,yes,moderate,8
+16/02/2026 19:33:00,22,cycle d'ingénieur,5th,Mécatronique,More than 8 hours,Less than 2 hours,no,0,20–30 hours,no,moderate,9
+04/02/2026 02:11:00,21,licence,3rd,Marketing,5–6 hours,More than 6 hours,yes,0,Less than 10 hours,yes,low,4
+10/04/2026 10:59:00,22,cycle d'ingénieur,1st,Mechanical engineering,Less than 5 hours,4–6 hours,yes,1,Less than 10 hours,no,moderate,6
+19/03/2026 09:54:00,29,doctorat,3rd,Architecture and urban planning,7–8 hours,More than 6 hours,no,2,20–30 hours,yes,moderate,7
+09/04/2026 23:14:00,23,cycle d'ingénieur,4th,Cybersecurity,7–8 hours,2–4 hours,no,0,10–20 hours,yes,moderate,8
+09/03/2026 05:28:00,28,mastère,1st,Cybersecurity,Less than 5 hours,More than 6 hours,yes,2,20–30 hours,yes,low,8
+25/01/2026 12:11:00,26,licence,1st,History,7–8 hours,2–4 hours,yes,0,Less than 10 hours,yes,low,4
+21/02/2026 11:17:00,22,pharmacie,5th,Industrial pharmacy,7–8 hours,More than 6 hours,yes,3 or more,20–30 hours,no,low,1
+28/01/2026 14:19:00,19,cycle d'ingénieur,1st,Biomedical engineering,5–6 hours,4–6 hours,yes,1,10–20 hours,no,high,5
+05/02/2026 01:24:00,21,licence,1st,English,5–6 hours,More than 6 hours,yes,0,10–20 hours,yes,moderate,9
+04/04/2026 12:47:00,17,licence,2nd,Économie,7–8 hours,2–4 hours,no,0,More than 30 hours,yes,low,3
+06/01/2026 12:09:00,25,mastère,1st,Environmental science,7–8 hours,Less than 2 hours,no,3 or more,20–30 hours,no,moderate,3
+01/02/2026 15:11:00,30,mastère,2nd,Cybersecurity,7–8 hours,More than 6 hours,no,3 or more,20–30 hours,yes,moderate,6
+17/02/2026 13:31:00,21,pharmacie,2nd,Pharmacology,5–6 hours,More than 6 hours,no,0,20–30 hours,yes,high,10
+03/03/2026 05:19:00,21,licence,1st,Psychology,Less than 5 hours,More than 6 hours,no,0,10–20 hours,no,high,8
+21/02/2026 08:49:00,17,licence,2nd,Marketing,5–6 hours,2–4 hours,no,0,Less than 10 hours,no,moderate,5
+12/02/2026 03:20:00,20,cycle d'ingénieur,4th,Biomedical engineering,5–6 hours,4–6 hours,yes,1,More than 30 hours,no,moderate,4
+03/04/2026 01:38:00,28,mastère,2nd,Project management,5–6 hours,More than 6 hours,no,1,Less than 10 hours,no,moderate,7
+19/02/2026 15:48:00,24,cycle d'ingénieur,5th,Mechanical engineering,Less than 5 hours,4–6 hours,no,2,10–20 hours,yes,moderate,7
+24/03/2026 14:34:00,19,pharmacie,2nd,Pharmacology,7–8 hours,Less than 2 hours,yes,0,10–20 hours,no,low,4
+20/03/2026 13:25:00,24,licence,2nd,History,Less than 5 hours,2–4 hours,no,0,10–20 hours,no,high,6
+28/02/2026 08:28:00,24,cycle d'ingénieur,4th,Cybersecurity,More than 8 hours,More than 6 hours,yes,1,Less than 10 hours,no,low,3
+11/02/2026 14:21:00,22,cycle d'ingénieur,4th,Mechanical engineering,Less than 5 hours,2–4 hours,yes,1,Less than 10 hours,yes,low,6
+07/01/2026 20:53:00,25,cycle d'ingénieur,4th,Healthcare IT,5–6 hours,2–4 hours,no,2,More than 30 hours,yes,high,10
+16/03/2026 04:49:00,24,Bachelor degree at TBS,1st,Finance,7–8 hours,2–4 hours,yes,1,10–20 hours,no,low,3
+24/01/2026 00:28:00,26,mastère,1st,Cybersecurity,Less than 5 hours,4–6 hours,no,2,20–30 hours,yes,high,7
+18/03/2026 05:19:00,22,licence,3rd,Psychology,5–6 hours,4–6 hours,no,2,20–30 hours,yes,high,10
+01/04/2026 16:01:00,20,licence,3rd,Mathematics,Less than 5 hours,4–6 hours,no,1,Less than 10 hours,yes,low,8
+10/04/2026 20:10:00,23,cycle d'ingénieur,1st,Cybersecurity,7–8 hours,More than 6 hours,no,1,Less than 10 hours,yes,low,5
+10/02/2026 21:45:00,19,licence,3rd,Informatique de gestion,5–6 hours,2–4 hours,no,1,More than 30 hours,yes,low,5
+17/03/2026 12:22:00,21,licence,2nd,Web development,5–6 hours,2–4 hours,yes,2,10–20 hours,no,high,7
+03/04/2026 09:16:00,21,médecine,3rd,Pediatrics,7–8 hours,4–6 hours,no,1,10–20 hours,yes,high,9
+02/03/2026 17:29:00,28,cycle d'ingénieur,5th,Mécatronique,5–6 hours,4–6 hours,no,1,Less than 10 hours,yes,low,8
+23/02/2026 14:58:00,22,médecine,4th,Surgery,More than 8 hours,More than 6 hours,yes,1,More than 30 hours,yes,low,7
+09/02/2026 04:40:00,24,pharmacie,2nd,Clinical pharmacy,5–6 hours,4–6 hours,no,3 or more,10–20 hours,yes,moderate,6
+07/01/2026 16:33:00,25,mastère,2nd,Cybersecurity,7–8 hours,2–4 hours,no,3 or more,More than 30 hours,no,high,7
+04/04/2026 09:03:00,24,cycle d'ingénieur,2nd,Mechanical engineering,5–6 hours,More than 6 hours,no,1,Less than 10 hours,yes,moderate,5
+10/03/2026 19:43:00,20,cycle d'ingénieur,2nd,Computer science,Less than 5 hours,2–4 hours,no,1,Less than 10 hours,yes,moderate,8
+19/03/2026 23:43:00,22,cycle d'ingénieur,4th,Healthcare IT,Less than 5 hours,More than 6 hours,yes,1,20–30 hours,no,low,7
+05/03/2026 13:43:00,23,cycle d'ingénieur,2nd,Computer science,5–6 hours,2–4 hours,no,3 or more,10–20 hours,yes,moderate,6
+13/01/2026 17:34:00,21,licence,3rd,Sciences de gestion,5–6 hours,2–4 hours,no,1,10–20 hours,no,low,1
+07/04/2026 18:15:00,24,licence,2nd,Mathematics,5–6 hours,2–4 hours,no,2,Less than 10 hours,yes,moderate,4
+23/03/2026 13:27:00,22,mastère,1st,Data analytics,5–6 hours,More than 6 hours,no,1,10–20 hours,yes,high,8
+18/03/2026 12:36:00,22,cycle d'ingénieur,5th,Electrical engineering,Less than 5 hours,2–4 hours,no,0,20–30 hours,no,high,8
+31/01/2026 05:05:00,21,licence,1st,Économie,Less than 5 hours,More than 6 hours,no,1,10–20 hours,yes,high,10
+25/03/2026 21:16:00,22,cycle d'ingénieur,4th,Healthcare IT,Less than 5 hours,4–6 hours,no,1,10–20 hours,no,high,9
+11/02/2026 07:35:00,18,licence,3rd,Accounting,Less than 5 hours,More than 6 hours,yes,0,Less than 10 hours,yes,moderate,7
+20/03/2026 13:36:00,21,licence,3rd,Économie,7–8 hours,4–6 hours,no,0,Less than 10 hours,yes,moderate,8
+18/03/2026 10:27:00,21,pharmacie,2nd,Pharmacology,5–6 hours,Less than 2 hours,yes,0,10–20 hours,no,moderate,5
+25/02/2026 17:55:00,24,cycle d'ingénieur,2nd,Data science,More than 8 hours,2–4 hours,no,1,More than 30 hours,no,high,9
+10/03/2026 12:47:00,24,cycle d'ingénieur,2nd,Robotics,5–6 hours,4–6 hours,no,3 or more,10–20 hours,no,high,10
+09/01/2026 10:51:00,30,mastère,2nd,Business law,Less than 5 hours,4–6 hours,no,0,Less than 10 hours,no,high,8
+16/03/2026 21:50:00,25,cycle d'ingénieur,2nd,Robotics,5–6 hours,More than 6 hours,yes,3 or more,20–30 hours,yes,high,9
+21/02/2026 13:06:00,25,licence,3rd,Mathematics,7–8 hours,4–6 hours,yes,0,Less than 10 hours,no,low,1
+29/01/2026 04:34:00,22,cycle d'ingénieur,2nd,Mechanical engineering,More than 8 hours,2–4 hours,no,0,More than 30 hours,no,high,7
+19/03/2026 07:35:00,18,Bachelor degree at TBS,3rd,Finance,7–8 hours,More than 6 hours,no,2,20–30 hours,no,moderate,8
+16/02/2026 06:13:00,21,licence,2nd,Philosophy,More than 8 hours,4–6 hours,yes,1,10–20 hours,yes,moderate,10
+02/04/2026 21:37:00,20,licence,2nd,Sociology,5–6 hours,More than 6 hours,yes,0,20–30 hours,no,moderate,4
+26/02/2026 14:26:00,23,cycle d'ingénieur,3rd,Mécatronique,5–6 hours,2–4 hours,no,2,Less than 10 hours,yes,low,3
+05/02/2026 08:39:00,24,cycle d'ingénieur,5th,Mécatronique,5–6 hours,2–4 hours,no,1,10–20 hours,no,low,5
+14/02/2026 03:44:00,23,cycle d'ingénieur,4th,Data science,Less than 5 hours,4–6 hours,yes,2,More than 30 hours,yes,moderate,8
+01/01/2026 13:55:00,23,cycle d'ingénieur,3rd,Industrial computer science,7–8 hours,2–4 hours,yes,2,10–20 hours,yes,low,7
+10/01/2026 18:14:00,19,licence,3rd,Économie,7–8 hours,More than 6 hours,yes,0,20–30 hours,no,moderate,9
+31/03/2026 04:40:00,33,doctorat,2nd,Mathematics,7–8 hours,4–6 hours,yes,0,Less than 10 hours,no,low,3
+28/03/2026 05:20:00,22,licence,1st,Économie,7–8 hours,4–6 hours,yes,0,20–30 hours,yes,low,1
+30/03/2026 13:41:00,21,licence,3rd,Sciences de gestion,7–8 hours,2–4 hours,no,1,10–20 hours,yes,moderate,7
+18/02/2026 07:28:00,22,cycle d'ingénieur,2nd,Robotics,More than 8 hours,More than 6 hours,yes,2,10–20 hours,no,moderate,1
+11/02/2026 12:45:00,21,licence,2nd,English,5–6 hours,More than 6 hours,no,3 or more,More than 30 hours,yes,high,10
+02/01/2026 03:11:00,24,cycle d'ingénieur,4th,Data science,5–6 hours,More than 6 hours,no,2,More than 30 hours,no,high,9
+29/03/2026 21:58:00,22,licence,1st,Biotechnology,7–8 hours,More than 6 hours,no,0,Less than 10 hours,yes,low,3
+19/03/2026 20:29:00,24,pharmacie,2nd,Industrial pharmacy,Less than 5 hours,2–4 hours,no,3 or more,Less than 10 hours,yes,moderate,10
+20/01/2026 03:55:00,22,cycle d'ingénieur,5th,Software engineering,More than 8 hours,2–4 hours,yes,1,20–30 hours,no,low,1
+04/01/2026 17:11:00,26,mastère,1st,Graphic design,5–6 hours,More than 6 hours,no,2,More than 30 hours,yes,high,10
+09/04/2026 09:08:00,32,doctorat,3rd,Computer science,More than 8 hours,2–4 hours,yes,1,Less than 10 hours,no,low,1
+05/02/2026 09:24:00,23,cycle d'ingénieur,1st,Biomedical engineering,More than 8 hours,2–4 hours,yes,2,Less than 10 hours,no,low,1
+12/02/2026 21:29:00,23,licence,1st,English,Less than 5 hours,4–6 hours,no,1,10–20 hours,yes,high,10
+18/02/2026 06:50:00,19,préparatoire intégrée,2nd,Biology,More than 8 hours,4–6 hours,no,1,10–20 hours,no,moderate,5
+10/01/2026 01:19:00,23,cycle d'ingénieur,4th,Industrial computer science,7–8 hours,4–6 hours,no,2,Less than 10 hours,yes,high,8
+10/01/2026 05:09:00,22,cycle d'ingénieur,5th,Civil engineering,7–8 hours,2–4 hours,no,1,20–30 hours,yes,high,5
+21/02/2026 09:16:00,17,licence,3rd,English,5–6 hours,2–4 hours,no,0,10–20 hours,yes,high,10
+31/01/2026 02:28:00,22,cycle d'ingénieur,2nd,Industrial computer science,Less than 5 hours,2–4 hours,no,1,10–20 hours,no,moderate,7
+04/03/2026 00:21:00,21,médecine,6th,Cardiology,5–6 hours,4–6 hours,no,3 or more,Less than 10 hours,no,low,9
+05/04/2026 20:39:00,23,cycle d'ingénieur,3rd,Mechanical engineering,7–8 hours,More than 6 hours,yes,0,Less than 10 hours,yes,low,5
+05/03/2026 13:44:00,22,licence,2nd,Web development,5–6 hours,4–6 hours,no,3 or more,10–20 hours,no,high,10
+19/03/2026 22:49:00,22,cycle d'ingénieur,1st,Mechanical engineering,5–6 hours,More than 6 hours,yes,3 or more,Less than 10 hours,yes,low,4
+06/02/2026 10:51:00,23,licence,2nd,Physics,7–8 hours,4–6 hours,no,3 or more,20–30 hours,no,moderate,5
+26/01/2026 11:36:00,26,mastère,1st,Environmental science,Less than 5 hours,More than 6 hours,no,3 or more,10–20 hours,no,high,10
+01/03/2026 08:35:00,21,licence,3rd,Informatique de gestion,7–8 hours,2–4 hours,no,3 or more,More than 30 hours,no,high,7
+02/03/2026 11:12:00,23,pharmacie,2nd,Industrial pharmacy,Less than 5 hours,More than 6 hours,no,0,20–30 hours,yes,moderate,10
+06/01/2026 02:03:00,25,cycle d'ingénieur,4th,Embedded systems,5–6 hours,More than 6 hours,no,0,20–30 hours,no,high,10
+13/01/2026 21:30:00,21,licence,2nd,Finance,Less than 5 hours,More than 6 hours,no,1,10–20 hours,no,high,10
+07/01/2026 23:36:00,21,médecine,5th,Neurology,5–6 hours,More than 6 hours,no,1,Less than 10 hours,yes,high,9
+11/02/2026 04:43:00,21,cycle d'ingénieur,1st,Mécatronique,7–8 hours,More than 6 hours,no,3 or more,10–20 hours,yes,high,9
+15/01/2026 13:36:00,17,licence,1st,History,Less than 5 hours,More than 6 hours,no,0,20–30 hours,yes,high,7
+18/03/2026 00:33:00,20,préparatoire intégrée,2nd,Engineering sciences,Less than 5 hours,More than 6 hours,no,3 or more,10–20 hours,yes,moderate,8
+05/04/2026 13:59:00,26,mastère,2nd,Telecom & networks,5–6 hours,More than 6 hours,no,1,10–20 hours,no,high,8
+20/01/2026 00:36:00,23,cycle d'ingénieur,3rd,Mechanical engineering,7–8 hours,4–6 hours,no,0,20–30 hours,no,high,6
+12/02/2026 00:44:00,20,médecine,4th,General medicine,7–8 hours,2–4 hours,yes,1,20–30 hours,no,low,4
+21/03/2026 17:10:00,19,préparatoire intégrée,2nd,AI,Less than 5 hours,More than 6 hours,no,0,20–30 hours,yes,high,7
+21/02/2026 04:44:00,21,Bachelor degree at TBS,3rd,Entrepreneurship,Less than 5 hours,Less than 2 hours,no,1,10–20 hours,yes,moderate,8
+15/02/2026 11:40:00,23,mastère,1st,Graphic design,5–6 hours,More than 6 hours,no,2,10–20 hours,yes,moderate,6
+14/02/2026 01:01:00,23,cycle d'ingénieur,5th,Data science,5–6 hours,2–4 hours,yes,1,Less than 10 hours,yes,moderate,9
+19/03/2026 11:41:00,24,médecine,6th,Surgery,5–6 hours,4–6 hours,yes,3 or more,10–20 hours,yes,low,4
+16/01/2026 11:42:00,22,médecine,1st,Pediatrics,Less than 5 hours,2–4 hours,yes,1,20–30 hours,yes,moderate,5
+28/02/2026 04:15:00,18,licence,2nd,Informatique de gestion,Less than 5 hours,4–6 hours,no,2,Less than 10 hours,yes,low,8
+10/02/2026 13:10:00,30,doctorat,3rd,Architecture and urban planning,7–8 hours,Less than 2 hours,yes,1,10–20 hours,no,low,2
+07/03/2026 19:20:00,23,cycle d'ingénieur,5th,Cybersecurity,Less than 5 hours,2–4 hours,no,1,Less than 10 hours,no,high,10
+23/03/2026 23:02:00,17,préparatoire intégrée,2nd,Computer science,7–8 hours,2–4 hours,yes,2,10–20 hours,no,moderate,4
+28/01/2026 11:52:00,24,pharmacie,5th,Clinical pharmacy,More than 8 hours,4–6 hours,no,0,10–20 hours,no,moderate,7
+08/04/2026 21:06:00,24,licence,1st,Chemistry,7–8 hours,More than 6 hours,yes,3 or more,10–20 hours,yes,low,7
+22/03/2026 17:46:00,20,préparatoire intégrée,1st,Biology,5–6 hours,2–4 hours,no,0,20–30 hours,yes,high,9
+07/04/2026 18:40:00,18,préparatoire intégrée,1st,Mathematics,7–8 hours,4–6 hours,yes,0,Less than 10 hours,yes,low,4
+08/02/2026 01:25:00,22,pharmacie,4th,Clinical pharmacy,5–6 hours,2–4 hours,no,1,Less than 10 hours,yes,low,7
+24/01/2026 11:15:00,18,pharmacie,1st,Industrial pharmacy,5–6 hours,4–6 hours,yes,0,20–30 hours,yes,moderate,8
+26/01/2026 19:06:00,25,cycle d'ingénieur,1st,Biomedical engineering,5–6 hours,2–4 hours,yes,0,Less than 10 hours,yes,low,5
+02/03/2026 19:35:00,27,médecine,2nd,Pediatrics,Less than 5 hours,4–6 hours,no,1,10–20 hours,yes,high,9
+22/01/2026 05:03:00,28,mastère,2nd,Environmental science,7–8 hours,4–6 hours,no,0,Less than 10 hours,yes,low,4
+22/03/2026 10:38:00,26,cycle d'ingénieur,4th,Mechanical engineering,Less than 5 hours,2–4 hours,yes,2,More than 30 hours,yes,high,10
+14/02/2026 16:56:00,21,cycle d'ingénieur,3rd,Computer science,5–6 hours,4–6 hours,yes,0,10–20 hours,no,low,2
+08/02/2026 07:59:00,24,cycle d'ingénieur,3rd,Telecommunications engineering,7–8 hours,More than 6 hours,no,0,Less than 10 hours,no,high,6
+04/02/2026 05:45:00,19,cycle d'ingénieur,3rd,Robotics,7–8 hours,More than 6 hours,no,2,Less than 10 hours,yes,moderate,10
+26/01/2026 15:33:00,27,cycle d'ingénieur,3rd,Biomedical engineering,5–6 hours,2–4 hours,no,3 or more,Less than 10 hours,no,moderate,4
+05/02/2026 10:45:00,24,licence,1st,Sciences de gestion,7–8 hours,More than 6 hours,no,0,10–20 hours,yes,moderate,6
+21/01/2026 02:04:00,24,licence,1st,Marketing,Less than 5 hours,4–6 hours,yes,1,Less than 10 hours,yes,low,6
+08/04/2026 06:34:00,28,mastère,2nd,AI & machine learning,Less than 5 hours,2–4 hours,yes,1,10–20 hours,no,moderate,5
+13/01/2026 09:14:00,24,cycle d'ingénieur,5th,Healthcare IT,7–8 hours,4–6 hours,no,2,20–30 hours,no,low,1
+13/01/2026 06:54:00,23,licence,3rd,Law,Less than 5 hours,More than 6 hours,no,1,20–30 hours,yes,high,10
+22/03/2026 02:07:00,21,préparatoire intégrée,2nd,Mathematics,7–8 hours,More than 6 hours,yes,1,10–20 hours,no,low,1
+24/02/2026 15:39:00,21,cycle d'ingénieur,5th,Industrial computer science,More than 8 hours,4–6 hours,no,0,Less than 10 hours,no,low,1
+10/03/2026 00:55:00,31,mastère,2nd,Project management,More than 8 hours,More than 6 hours,no,2,10–20 hours,yes,moderate,7
+23/01/2026 13:22:00,21,préparatoire intégrée,2nd,Engineering sciences,5–6 hours,4–6 hours,yes,2,Less than 10 hours,no,low,2
+24/01/2026 13:17:00,26,mastère,2nd,Finance & banking,7–8 hours,2–4 hours,no,0,Less than 10 hours,no,low,5
+04/03/2026 02:33:00,23,licence,2nd,Physics,5–6 hours,4–6 hours,no,2,20–30 hours,yes,moderate,6
+08/03/2026 00:55:00,22,licence,3rd,Accounting,7–8 hours,4–6 hours,no,3 or more,Less than 10 hours,yes,low,4
+18/03/2026 19:06:00,21,cycle d'ingénieur,1st,Mechanical engineering,7–8 hours,4–6 hours,no,2,Less than 10 hours,no,low,4
+27/01/2026 02:46:00,26,Bachelor degree at TBS,3rd,Entrepreneurship,7–8 hours,4–6 hours,yes,0,10–20 hours,yes,moderate,6
+16/01/2026 15:26:00,24,licence,3rd,Web development,5–6 hours,2–4 hours,no,1,Less than 10 hours,no,low,1
+28/02/2026 01:49:00,24,cycle d'ingénieur,4th,Biomedical engineering,5–6 hours,2–4 hours,no,3 or more,Less than 10 hours,yes,low,8
+01/03/2026 14:34:00,28,cycle d'ingénieur,5th,Telecommunications engineering,7–8 hours,2–4 hours,yes,2,10–20 hours,yes,high,6
+07/02/2026 18:35:00,18,licence,1st,Psychology,7–8 hours,More than 6 hours,yes,1,Less than 10 hours,yes,low,2
+09/01/2026 05:52:00,22,licence,2nd,Physics,More than 8 hours,2–4 hours,yes,0,Less than 10 hours,no,low,1
+13/03/2026 17:11:00,23,licence,3rd,History,7–8 hours,4–6 hours,no,2,Less than 10 hours,yes,low,1
+12/03/2026 00:59:00,22,cycle d'ingénieur,2nd,Robotics,Less than 5 hours,2–4 hours,no,3 or more,More than 30 hours,yes,high,9
+14/01/2026 21:33:00,26,licence,1st,Sociology,7–8 hours,Less than 2 hours,yes,1,10–20 hours,no,low,2
+24/03/2026 11:05:00,18,préparatoire intégrée,2nd,Chemistry,Less than 5 hours,More than 6 hours,no,0,10–20 hours,yes,high,10
+23/01/2026 20:21:00,36,doctorat,2nd,Mathematics,5–6 hours,More than 6 hours,yes,3 or more,10–20 hours,yes,moderate,10
+24/02/2026 13:13:00,23,mastère,2nd,Environmental science,More than 8 hours,4–6 hours,yes,2,20–30 hours,yes,low,6
+28/01/2026 12:09:00,32,doctorat,3rd,Materials science,Less than 5 hours,4–6 hours,no,2,20–30 hours,no,moderate,6
+16/03/2026 03:55:00,19,préparatoire intégrée,2nd,Computer science,More than 8 hours,More than 6 hours,no,0,10–20 hours,yes,moderate,5
+08/03/2026 07:55:00,23,cycle d'ingénieur,1st,Embedded systems,7–8 hours,More than 6 hours,no,3 or more,20–30 hours,yes,low,1
+17/01/2026 16:37:00,24,licence,1st,Psychology,Less than 5 hours,4–6 hours,no,1,20–30 hours,no,high,10
+12/03/2026 03:01:00,19,licence,1st,Law,More than 8 hours,4–6 hours,no,2,20–30 hours,yes,moderate,5
+21/02/2026 02:01:00,23,licence,2nd,Psychology,5–6 hours,2–4 hours,no,1,20–30 hours,yes,high,8
+09/01/2026 06:43:00,32,mastère,2nd,Project management,More than 8 hours,More than 6 hours,no,1,10–20 hours,no,moderate,3
+13/01/2026 11:46:00,19,préparatoire intégrée,1st,Biology,7–8 hours,More than 6 hours,yes,2,10–20 hours,no,moderate,6
+13/03/2026 05:56:00,22,cycle d'ingénieur,5th,Embedded systems,7–8 hours,4–6 hours,no,3 or more,Less than 10 hours,no,moderate,9
+08/03/2026 17:40:00,22,cycle d'ingénieur,5th,Computer science,More than 8 hours,4–6 hours,yes,2,Less than 10 hours,yes,moderate,6
+16/03/2026 08:23:00,27,mastère,2nd,AI & machine learning,More than 8 hours,2–4 hours,yes,3 or more,10–20 hours,yes,low,5
+28/03/2026 20:37:00,25,licence,2nd,Accounting,7–8 hours,2–4 hours,yes,2,Less than 10 hours,no,low,4
+03/03/2026 03:24:00,22,pharmacie,4th,Pharmacology,7–8 hours,4–6 hours,no,3 or more,10–20 hours,yes,high,7
+06/02/2026 21:37:00,30,mastère,1st,Telecom & networks,Less than 5 hours,More than 6 hours,no,1,10–20 hours,yes,high,10
+22/03/2026 19:37:00,28,mastère,2nd,AI & machine learning,5–6 hours,More than 6 hours,yes,2,More than 30 hours,yes,moderate,8
+23/03/2026 23:31:00,18,licence,2nd,Sciences de gestion,7–8 hours,Less than 2 hours,yes,1,10–20 hours,no,low,1
+09/01/2026 21:37:00,21,cycle d'ingénieur,5th,Data science,5–6 hours,2–4 hours,yes,1,More than 30 hours,no,low,5
+21/01/2026 04:41:00,21,cycle d'ingénieur,4th,Mécatronique,Less than 5 hours,2–4 hours,yes,0,Less than 10 hours,no,low,1
+01/02/2026 02:32:00,20,cycle d'ingénieur,2nd,Healthcare IT,5–6 hours,4–6 hours,no,3 or more,More than 30 hours,yes,high,10
+06/01/2026 11:18:00,23,licence,1st,Law,Less than 5 hours,Less than 2 hours,yes,1,Less than 10 hours,no,low,5
+17/03/2026 00:37:00,21,cycle d'ingénieur,4th,Healthcare IT,5–6 hours,More than 6 hours,no,1,10–20 hours,no,high,8
+13/03/2026 00:26:00,26,licence,3rd,Économie,5–6 hours,4–6 hours,no,1,20–30 hours,no,low,5
+07/01/2026 14:19:00,19,cycle d'ingénieur,1st,Civil engineering,Less than 5 hours,More than 6 hours,no,1,10–20 hours,no,high,9
+02/03/2026 08:54:00,19,licence,3rd,Chemistry,Less than 5 hours,More than 6 hours,no,3 or more,10–20 hours,yes,moderate,8
+11/03/2026 22:40:00,22,cycle d'ingénieur,3rd,Telecommunications engineering,5–6 hours,4–6 hours,no,3 or more,20–30 hours,yes,moderate,7
+07/03/2026 00:45:00,26,mastère,1st,Data analytics,7–8 hours,2–4 hours,yes,0,20–30 hours,yes,moderate,9
+17/02/2026 08:37:00,18,préparatoire intégrée,1st,Biology,5–6 hours,4–6 hours,no,2,Less than 10 hours,yes,low,5
+19/02/2026 15:39:00,24,licence,1st,Accounting,7–8 hours,4–6 hours,yes,2,10–20 hours,yes,high,4
+21/01/2026 21:34:00,30,mastère,1st,Finance & banking,7–8 hours,4–6 hours,yes,2,20–30 hours,yes,low,3
+02/02/2026 14:37:00,22,cycle d'ingénieur,2nd,Software engineering,More than 8 hours,2–4 hours,no,0,Less than 10 hours,no,low,2
+28/02/2026 15:14:00,24,cycle d'ingénieur,4th,Mechanical engineering,7–8 hours,4–6 hours,no,1,20–30 hours,no,moderate,3
+24/01/2026 01:30:00,17,préparatoire intégrée,1st,Biology,More than 8 hours,2–4 hours,yes,2,10–20 hours,no,low,5
+29/01/2026 17:18:00,29,doctorat,3rd,Biomedical research,5–6 hours,More than 6 hours,yes,3 or more,Less than 10 hours,no,low,3
+29/03/2026 08:08:00,19,licence,3rd,Philosophy,Less than 5 hours,4–6 hours,no,1,More than 30 hours,yes,high,9
+08/03/2026 11:19:00,20,cycle d'ingénieur,4th,Computer science,7–8 hours,2–4 hours,yes,0,10–20 hours,no,high,5
+23/01/2026 19:50:00,20,licence,2nd,History,Less than 5 hours,4–6 hours,no,0,Less than 10 hours,no,low,3
+07/01/2026 04:50:00,20,cycle d'ingénieur,3rd,Embedded systems,5–6 hours,More than 6 hours,no,3 or more,20–30 hours,yes,moderate,6
+02/04/2026 18:10:00,20,licence,2nd,Économie,7–8 hours,Less than 2 hours,no,2,Less than 10 hours,no,low,1
+15/03/2026 18:13:00,18,médecine,2nd,Cardiology,Less than 5 hours,4–6 hours,yes,1,Less than 10 hours,yes,moderate,8
+23/02/2026 22:27:00,24,mastère,2nd,Graphic design,Less than 5 hours,More than 6 hours,yes,3 or more,Less than 10 hours,yes,low,9
+21/01/2026 14:37:00,25,cycle d'ingénieur,5th,Civil engineering,5–6 hours,More than 6 hours,yes,0,Less than 10 hours,yes,low,5
+04/03/2026 10:42:00,18,licence,3rd,Mathematics,5–6 hours,2–4 hours,no,1,10–20 hours,no,high,7
+19/01/2026 14:51:00,22,licence,3rd,Finance,5–6 hours,2–4 hours,yes,1,Less than 10 hours,no,moderate,5
+08/04/2026 11:23:00,25,médecine,5th,Pediatrics,7–8 hours,4–6 hours,yes,2,More than 30 hours,yes,moderate,7
+16/02/2026 04:24:00,30,doctorat,2nd,Computer science,5–6 hours,More than 6 hours,yes,1,Less than 10 hours,yes,low,3
+01/04/2026 13:23:00,25,médecine,5th,Cardiology,7–8 hours,2–4 hours,no,2,Less than 10 hours,yes,low,7
+01/04/2026 12:07:00,29,mastère,1st,Data analytics,5–6 hours,4–6 hours,yes,0,20–30 hours,yes,moderate,8
+17/03/2026 01:36:00,21,licence,1st,Physics,Less than 5 hours,2–4 hours,no,1,More than 30 hours,no,high,8
+05/02/2026 08:18:00,29,mastère,2nd,Project management,Less than 5 hours,2–4 hours,no,0,20–30 hours,no,high,9
+28/02/2026 06:21:00,22,licence,1st,Informatique de gestion,7–8 hours,2–4 hours,no,2,20–30 hours,yes,high,7
+31/01/2026 10:25:00,23,cycle d'ingénieur,3rd,Robotics,Less than 5 hours,More than 6 hours,yes,1,Less than 10 hours,yes,low,5
+26/01/2026 17:08:00,26,pharmacie,5th,Clinical pharmacy,5–6 hours,More than 6 hours,yes,0,10–20 hours,no,low,1
+29/03/2026 10:46:00,21,licence,1st,Law,Less than 5 hours,More than 6 hours,no,0,10–20 hours,yes,high,10
+16/03/2026 10:39:00,19,cycle d'ingénieur,2nd,Biomedical engineering,More than 8 hours,Less than 2 hours,no,1,10–20 hours,no,low,5
+27/01/2026 03:13:00,24,cycle d'ingénieur,4th,Telecommunications engineering,5–6 hours,Less than 2 hours,no,1,More than 30 hours,no,moderate,4
+30/01/2026 03:53:00,23,cycle d'ingénieur,3rd,Telecommunications engineering,More than 8 hours,More than 6 hours,no,1,Less than 10 hours,no,moderate,6
+04/03/2026 16:28:00,23,cycle d'ingénieur,4th,Computer science,5–6 hours,More than 6 hours,no,3 or more,20–30 hours,no,high,9
+17/03/2026 01:41:00,23,cycle d'ingénieur,4th,Data science,5–6 hours,2–4 hours,no,1,10–20 hours,no,high,7
+31/01/2026 03:19:00,22,licence,3rd,Web development,7–8 hours,2–4 hours,yes,1,More than 30 hours,no,moderate,5
+27/01/2026 04:20:00,20,préparatoire intégrée,1st,Computer science,More than 8 hours,2–4 hours,no,1,Less than 10 hours,no,low,1
+19/03/2026 16:42:00,26,cycle d'ingénieur,2nd,Computer science,Less than 5 hours,4–6 hours,yes,3 or more,10–20 hours,no,moderate,6
+11/03/2026 00:59:00,30,mastère,1st,Project management,5–6 hours,4–6 hours,no,3 or more,10–20 hours,no,high,7
+03/03/2026 04:23:00,26,cycle d'ingénieur,1st,Cybersecurity,7–8 hours,More than 6 hours,no,3 or more,10–20 hours,yes,moderate,6
+11/01/2026 18:24:00,21,licence,1st,English,7–8 hours,2–4 hours,yes,2,20–30 hours,no,low,3
+20/03/2026 08:11:00,23,cycle d'ingénieur,2nd,Computer science,5–6 hours,2–4 hours,no,3 or more,20–30 hours,yes,high,6
+19/02/2026 21:33:00,24,médecine,6th,Cardiology,Less than 5 hours,2–4 hours,yes,1,20–30 hours,yes,moderate,10
+27/03/2026 14:57:00,24,licence,2nd,Network security,7–8 hours,More than 6 hours,no,2,10–20 hours,no,low,1
+11/03/2026 15:05:00,22,cycle d'ingénieur,1st,Mechanical engineering,5–6 hours,More than 6 hours,yes,1,Less than 10 hours,no,low,4
+09/01/2026 22:56:00,23,cycle d'ingénieur,2nd,Software engineering,More than 8 hours,4–6 hours,no,2,10–20 hours,no,high,1
+09/02/2026 00:42:00,23,cycle d'ingénieur,2nd,Cybersecurity,More than 8 hours,4–6 hours,yes,2,Less than 10 hours,no,moderate,2
+26/03/2026 19:28:00,24,médecine,2nd,Neurology,7–8 hours,2–4 hours,yes,0,20–30 hours,yes,low,4
+20/01/2026 01:29:00,26,cycle d'ingénieur,1st,Telecommunications engineering,More than 8 hours,4–6 hours,yes,1,Less than 10 hours,yes,low,4
+28/01/2026 01:18:00,23,cycle d'ingénieur,5th,Robotics,5–6 hours,4–6 hours,no,0,10–20 hours,yes,moderate,9
+13/03/2026 00:46:00,26,mastère,2nd,Droit / law,7–8 hours,More than 6 hours,yes,1,10–20 hours,no,moderate,6
+18/01/2026 11:15:00,24,médecine,3rd,Cardiology,7–8 hours,More than 6 hours,yes,2,Less than 10 hours,yes,low,3
+15/02/2026 02:10:00,18,pharmacie,1st,Industrial pharmacy,More than 8 hours,4–6 hours,no,0,10–20 hours,yes,low,3
+25/02/2026 14:47:00,21,licence,1st,Finance,More than 8 hours,More than 6 hours,no,0,Less than 10 hours,no,low,1
+28/01/2026 17:46:00,18,préparatoire intégrée,2nd,Computer science,Less than 5 hours,More than 6 hours,yes,3 or more,10–20 hours,yes,moderate,9
+21/01/2026 13:27:00,24,mastère,1st,Data analytics,7–8 hours,More than 6 hours,no,3 or more,More than 30 hours,no,high,6
+05/03/2026 10:52:00,20,préparatoire intégrée,1st,Biology,More than 8 hours,4–6 hours,no,2,More than 30 hours,no,moderate,5
+06/04/2026 21:22:00,25,licence,1st,Philosophy,7–8 hours,2–4 hours,yes,2,10–20 hours,yes,moderate,6
+22/01/2026 07:20:00,27,doctorat,1st,Mathematics,More than 8 hours,4–6 hours,no,1,10–20 hours,yes,moderate,8
+30/01/2026 06:06:00,20,pharmacie,5th,Pharmacology,5–6 hours,4–6 hours,no,3 or more,More than 30 hours,no,high,9
+21/03/2026 03:34:00,25,cycle d'ingénieur,2nd,Healthcare IT,7–8 hours,4–6 hours,yes,0,10–20 hours,no,moderate,2
+20/03/2026 16:43:00,20,licence,3rd,Biotechnology,5–6 hours,More than 6 hours,no,1,Less than 10 hours,yes,low,3
+10/02/2026 18:32:00,19,pharmacie,3rd,Pharmacology,Less than 5 hours,More than 6 hours,yes,1,Less than 10 hours,no,low,7
+24/03/2026 04:46:00,22,Bachelor degree at TBS,1st,Entrepreneurship,7–8 hours,More than 6 hours,yes,1,10–20 hours,no,moderate,6
+18/01/2026 03:50:00,18,licence,1st,Finance,7–8 hours,Less than 2 hours,yes,1,Less than 10 hours,yes,low,1
+06/02/2026 20:33:00,31,doctorat,1st,Materials science,More than 8 hours,4–6 hours,yes,3 or more,Less than 10 hours,yes,low,6
+28/03/2026 17:09:00,23,cycle d'ingénieur,3rd,Embedded systems,Less than 5 hours,2–4 hours,no,2,10–20 hours,yes,high,7
+02/01/2026 11:50:00,23,licence,2nd,History,7–8 hours,4–6 hours,no,2,Less than 10 hours,no,moderate,8
+27/03/2026 16:39:00,28,médecine,3rd,Surgery,7–8 hours,4–6 hours,yes,1,Less than 10 hours,no,low,3
+10/04/2026 03:02:00,24,mastère,1st,AI & machine learning,5–6 hours,2–4 hours,yes,3 or more,Less than 10 hours,no,low,6
+07/01/2026 09:30:00,23,cycle d'ingénieur,3rd,Computer science,Less than 5 hours,4–6 hours,no,1,10–20 hours,yes,moderate,8
+06/04/2026 06:03:00,21,licence,2nd,Philosophy,More than 8 hours,4–6 hours,no,1,Less than 10 hours,no,moderate,3
+11/01/2026 16:31:00,33,doctorat,3rd,Mathematics,Less than 5 hours,Less than 2 hours,no,3 or more,20–30 hours,yes,moderate,6
+23/02/2026 10:37:00,22,mastère,1st,Business law,7–8 hours,2–4 hours,no,1,20–30 hours,yes,high,5
+22/03/2026 02:55:00,23,cycle d'ingénieur,1st,Mechanical engineering,5–6 hours,More than 6 hours,no,1,20–30 hours,yes,moderate,9
+07/04/2026 23:25:00,20,cycle d'ingénieur,4th,Industrial computer science,5–6 hours,More than 6 hours,no,1,20–30 hours,yes,low,8
+02/04/2026 01:11:00,20,pharmacie,5th,Industrial pharmacy,7–8 hours,4–6 hours,yes,0,20–30 hours,yes,low,2
+13/03/2026 02:46:00,22,licence,3rd,Physics,7–8 hours,More than 6 hours,yes,3 or more,Less than 10 hours,yes,low,2
+19/03/2026 14:51:00,25,licence,3rd,Network security,Less than 5 hours,Less than 2 hours,no,2,20–30 hours,yes,moderate,8
+03/01/2026 13:14:00,19,cycle d'ingénieur,5th,Mechanical engineering,7–8 hours,4–6 hours,no,1,Less than 10 hours,no,moderate,4
+28/01/2026 15:23:00,20,médecine,5th,Pediatrics,7–8 hours,4–6 hours,yes,1,10–20 hours,yes,low,5
+10/03/2026 22:23:00,22,cycle d'ingénieur,2nd,Biomedical engineering,7–8 hours,2–4 hours,yes,1,10–20 hours,no,moderate,1
+03/02/2026 19:24:00,19,licence,2nd,Mathematics,More than 8 hours,4–6 hours,yes,2,Less than 10 hours,no,low,2
+25/01/2026 17:05:00,18,préparatoire intégrée,1st,Mathematics,Less than 5 hours,4–6 hours,no,0,More than 30 hours,yes,high,8
+26/02/2026 23:50:00,22,pharmacie,4th,Pharmacology,Less than 5 hours,More than 6 hours,no,1,More than 30 hours,no,high,7
+10/01/2026 18:27:00,20,cycle d'ingénieur,1st,Software engineering,Less than 5 hours,2–4 hours,no,3 or more,More than 30 hours,no,high,6
+22/02/2026 21:00:00,22,pharmacie,3rd,Industrial pharmacy,5–6 hours,4–6 hours,no,1,10–20 hours,yes,high,7
+16/03/2026 06:42:00,23,cycle d'ingénieur,5th,Software engineering,5–6 hours,More than 6 hours,no,1,10–20 hours,no,moderate,7
+01/03/2026 01:47:00,27,médecine,6th,General medicine,5–6 hours,2–4 hours,yes,1,20–30 hours,yes,moderate,6
+13/03/2026 08:14:00,20,licence,3rd,Informatique de gestion,5–6 hours,Less than 2 hours,no,0,Less than 10 hours,no,low,2
+30/03/2026 08:10:00,19,licence,3rd,Network security,7–8 hours,2–4 hours,no,3 or more,Less than 10 hours,no,moderate,7
+26/02/2026 20:32:00,22,médecine,2nd,Cardiology,More than 8 hours,2–4 hours,no,0,More than 30 hours,no,high,7
+02/02/2026 20:39:00,27,licence,1st,Physics,Less than 5 hours,More than 6 hours,no,3 or more,20–30 hours,yes,high,9
+25/01/2026 09:15:00,20,licence,3rd,Philosophy,7–8 hours,2–4 hours,yes,1,10–20 hours,no,high,5
+17/03/2026 18:51:00,27,mastère,1st,Project management,7–8 hours,More than 6 hours,yes,0,10–20 hours,no,low,1
+26/03/2026 21:53:00,24,cycle d'ingénieur,4th,Robotics,5–6 hours,More than 6 hours,no,1,10–20 hours,no,moderate,5
+02/04/2026 10:53:00,23,cycle d'ingénieur,4th,Civil engineering,7–8 hours,4–6 hours,no,0,More than 30 hours,yes,high,5
+05/01/2026 01:26:00,21,mastère,1st,Project management,5–6 hours,4–6 hours,yes,1,10–20 hours,yes,moderate,7
+30/03/2026 16:55:00,20,préparatoire intégrée,2nd,Physics,7–8 hours,More than 6 hours,yes,1,More than 30 hours,no,moderate,5
+21/01/2026 13:15:00,24,licence,1st,Marketing,7–8 hours,2–4 hours,yes,1,20–30 hours,no,moderate,5
+12/02/2026 07:56:00,29,mastère,1st,Droit / law,5–6 hours,4–6 hours,yes,1,Less than 10 hours,yes,low,7
+11/03/2026 22:06:00,18,licence,2nd,Sociology,5–6 hours,4–6 hours,no,1,Less than 10 hours,yes,moderate,7
+21/01/2026 19:50:00,21,licence,3rd,Law,7–8 hours,2–4 hours,yes,0,Less than 10 hours,yes,low,3
+07/01/2026 01:37:00,24,cycle d'ingénieur,1st,Telecommunications engineering,5–6 hours,More than 6 hours,no,1,More than 30 hours,yes,high,10
+27/01/2026 01:31:00,19,licence,1st,Web development,7–8 hours,4–6 hours,no,0,20–30 hours,no,high,4
+19/01/2026 04:54:00,19,préparatoire intégrée,2nd,Engineering sciences,7–8 hours,More than 6 hours,no,1,Less than 10 hours,yes,low,1
+21/02/2026 06:19:00,24,licence,1st,Sciences de gestion,5–6 hours,2–4 hours,no,3 or more,10–20 hours,yes,high,10
+06/03/2026 03:39:00,26,cycle d'ingénieur,2nd,Mechanical engineering,5–6 hours,More than 6 hours,no,0,10–20 hours,no,moderate,5
+31/03/2026 05:20:00,21,préparatoire intégrée,2nd,Physics,More than 8 hours,2–4 hours,no,1,20–30 hours,no,low,1
+18/02/2026 13:12:00,20,préparatoire intégrée,1st,Physics,5–6 hours,4–6 hours,no,0,10–20 hours,yes,moderate,8
+05/01/2026 04:54:00,25,cycle d'ingénieur,4th,Healthcare IT,More than 8 hours,4–6 hours,no,1,10–20 hours,yes,moderate,4
+01/03/2026 12:20:00,18,licence,2nd,Sciences de gestion,7–8 hours,More than 6 hours,no,0,20–30 hours,yes,low,7
+09/04/2026 16:01:00,25,cycle d'ingénieur,5th,Embedded systems,Less than 5 hours,4–6 hours,yes,2,Less than 10 hours,yes,low,6
+28/03/2026 15:38:00,25,cycle d'ingénieur,3rd,Cybersecurity,7–8 hours,More than 6 hours,yes,1,10–20 hours,yes,low,9
+14/02/2026 07:00:00,26,mastère,1st,Project management,7–8 hours,4–6 hours,yes,0,10–20 hours,yes,low,2
+09/02/2026 22:16:00,29,doctorat,1st,Architecture and urban planning,5–6 hours,4–6 hours,no,2,20–30 hours,yes,high,10
+02/01/2026 03:36:00,25,licence,1st,Marketing,5–6 hours,4–6 hours,yes,1,Less than 10 hours,yes,low,6
+05/04/2026 17:27:00,23,cycle d'ingénieur,1st,Healthcare IT,Less than 5 hours,2–4 hours,yes,1,20–30 hours,yes,low,7
+29/03/2026 03:49:00,21,mastère,1st,Environmental science,5–6 hours,More than 6 hours,yes,2,Less than 10 hours,yes,moderate,6
+21/03/2026 19:24:00,21,préparatoire intégrée,2nd,Biology,Less than 5 hours,4–6 hours,no,2,More than 30 hours,yes,high,10
+05/02/2026 18:02:00,18,licence,2nd,Philosophy,5–6 hours,4–6 hours,no,2,10–20 hours,yes,moderate,8
+01/01/2026 10:25:00,26,cycle d'ingénieur,3rd,Mécatronique,7–8 hours,2–4 hours,no,2,Less than 10 hours,no,high,6
+08/02/2026 08:20:00,18,préparatoire intégrée,1st,AI,5–6 hours,4–6 hours,no,0,10–20 hours,no,low,4
+07/04/2026 14:34:00,28,mastère,2nd,Droit / law,7–8 hours,More than 6 hours,no,1,20–30 hours,yes,high,9
+16/01/2026 00:59:00,27,pharmacie,3rd,Industrial pharmacy,5–6 hours,More than 6 hours,yes,3 or more,10–20 hours,no,moderate,9
+09/01/2026 12:04:00,23,cycle d'ingénieur,3rd,Data science,5–6 hours,4–6 hours,yes,1,Less than 10 hours,yes,low,4
+09/02/2026 05:26:00,17,préparatoire intégrée,1st,AI,Less than 5 hours,2–4 hours,no,1,10–20 hours,yes,high,10
+25/03/2026 12:42:00,26,mastère,2nd,Graphic design,Less than 5 hours,2–4 hours,no,1,10–20 hours,yes,high,8
+26/01/2026 00:30:00,27,mastère,1st,AI & machine learning,Less than 5 hours,2–4 hours,no,3 or more,10–20 hours,no,high,8
+21/02/2026 00:08:00,25,mastère,1st,Environmental science,7–8 hours,Less than 2 hours,no,0,10–20 hours,yes,low,5
+04/01/2026 10:27:00,19,cycle d'ingénieur,2nd,Computer science,Less than 5 hours,4–6 hours,no,3 or more,More than 30 hours,no,high,9
+25/01/2026 04:15:00,28,cycle d'ingénieur,5th,Data science,5–6 hours,4–6 hours,yes,0,10–20 hours,yes,moderate,6
+03/02/2026 02:49:00,21,licence,2nd,Physics,5–6 hours,More than 6 hours,yes,0,20–30 hours,yes,low,5
+16/03/2026 11:15:00,20,Bachelor degree at TBS,3rd,Marketing,7–8 hours,2–4 hours,no,0,More than 30 hours,no,high,7
+16/03/2026 06:26:00,25,cycle d'ingénieur,2nd,Civil engineering,7–8 hours,4–6 hours,yes,1,10–20 hours,yes,moderate,3
+07/01/2026 01:37:00,24,cycle d'ingénieur,3rd,Mécatronique,More than 8 hours,Less than 2 hours,yes,0,10–20 hours,no,low,5
+11/03/2026 02:41:00,27,cycle d'ingénieur,5th,Biomedical engineering,5–6 hours,4–6 hours,no,1,20–30 hours,yes,high,8
+09/04/2026 00:24:00,27,licence,3rd,Network security,Less than 5 hours,4–6 hours,no,1,10–20 hours,no,high,1
+04/03/2026 04:36:00,21,cycle d'ingénieur,2nd,Embedded systems,Less than 5 hours,2–4 hours,no,1,Less than 10 hours,yes,low,6
+28/03/2026 16:37:00,23,cycle d'ingénieur,2nd,Computer science,7–8 hours,More than 6 hours,yes,1,20–30 hours,yes,low,8
+04/03/2026 04:05:00,22,Bachelor degree at TBS,1st,Marketing,Less than 5 hours,4–6 hours,no,3 or more,10–20 hours,yes,high,10
+28/02/2026 08:14:00,29,mastère,2nd,Environmental science,7–8 hours,2–4 hours,yes,2,Less than 10 hours,yes,low,5
+04/03/2026 17:20:00,22,cycle d'ingénieur,4th,Electrical engineering,7–8 hours,2–4 hours,no,0,20–30 hours,no,moderate,5
+02/02/2026 04:06:00,17,licence,3rd,Psychology,7–8 hours,2–4 hours,yes,2,Less than 10 hours,yes,low,5
+05/04/2026 01:32:00,19,cycle d'ingénieur,2nd,Biomedical engineering,5–6 hours,More than 6 hours,no,3 or more,10–20 hours,yes,high,9
+14/02/2026 02:32:00,18,préparatoire intégrée,2nd,Mathematics,7–8 hours,4–6 hours,no,2,10–20 hours,no,high,7
+02/04/2026 02:00:00,29,mastère,1st,Project management,7–8 hours,More than 6 hours,yes,2,20–30 hours,yes,moderate,9
+22/01/2026 02:01:00,19,Bachelor degree at TBS,1st,International business,Less than 5 hours,4–6 hours,yes,3 or more,Less than 10 hours,no,moderate,7
+03/03/2026 09:12:00,24,cycle d'ingénieur,3rd,Industrial computer science,7–8 hours,Less than 2 hours,no,1,10–20 hours,no,moderate,5
+24/01/2026 16:06:00,23,cycle d'ingénieur,5th,Software engineering,Less than 5 hours,4–6 hours,no,0,10–20 hours,no,moderate,5
+24/01/2026 14:12:00,18,licence,1st,Accounting,7–8 hours,4–6 hours,yes,1,10–20 hours,no,low,2
+20/02/2026 18:23:00,19,préparatoire intégrée,1st,Mathematics,More than 8 hours,4–6 hours,yes,3 or more,20–30 hours,no,low,4
+20/01/2026 10:35:00,22,licence,3rd,Chemistry,Less than 5 hours,2–4 hours,no,3 or more,10–20 hours,yes,moderate,5
+24/01/2026 09:16:00,23,cycle d'ingénieur,2nd,Industrial computer science,5–6 hours,2–4 hours,no,0,20–30 hours,yes,high,9
+27/03/2026 10:54:00,19,licence,1st,Psychology,5–6 hours,2–4 hours,no,0,20–30 hours,no,high,10
+29/01/2026 19:58:00,21,cycle d'ingénieur,3rd,Telecommunications engineering,Less than 5 hours,4–6 hours,no,2,20–30 hours,yes,moderate,7
+04/01/2026 11:16:00,18,préparatoire intégrée,1st,Computer science,More than 8 hours,More than 6 hours,no,0,Less than 10 hours,no,moderate,7
+13/03/2026 03:48:00,18,préparatoire intégrée,2nd,Computer science,5–6 hours,2–4 hours,yes,0,Less than 10 hours,yes,low,5
+22/03/2026 13:03:00,24,licence,1st,Marketing,Less than 5 hours,2–4 hours,no,1,Less than 10 hours,yes,low,8
+29/03/2026 05:47:00,23,mastère,1st,Finance & banking,5–6 hours,4–6 hours,no,1,Less than 10 hours,no,moderate,6
+31/01/2026 05:45:00,24,mastère,2nd,Data analytics,7–8 hours,4–6 hours,no,1,10–20 hours,no,high,4
+26/02/2026 11:44:00,23,cycle d'ingénieur,4th,Healthcare IT,5–6 hours,More than 6 hours,no,2,10–20 hours,no,high,7
+12/02/2026 22:55:00,30,doctorat,3rd,Environmental science,More than 8 hours,2–4 hours,yes,3 or more,Less than 10 hours,no,low,3
+05/02/2026 10:00:00,30,doctorat,3rd,Materials science,Less than 5 hours,4–6 hours,no,2,Less than 10 hours,yes,moderate,10
+07/04/2026 05:54:00,27,médecine,3rd,General medicine,Less than 5 hours,2–4 hours,yes,3 or more,10–20 hours,yes,moderate,8
+21/01/2026 11:04:00,21,cycle d'ingénieur,5th,Civil engineering,Less than 5 hours,4–6 hours,no,0,More than 30 hours,yes,high,6
+28/01/2026 05:09:00,27,mastère,1st,Project management,7–8 hours,More than 6 hours,no,0,10–20 hours,no,low,3
+19/01/2026 08:05:00,22,cycle d'ingénieur,4th,Embedded systems,7–8 hours,More than 6 hours,no,2,Less than 10 hours,no,low,6
+22/02/2026 19:17:00,25,médecine,1st,Pediatrics,Less than 5 hours,More than 6 hours,no,3 or more,Less than 10 hours,yes,high,8
+11/03/2026 19:08:00,28,mastère,1st,Data analytics,7–8 hours,More than 6 hours,no,0,20–30 hours,yes,high,4
+13/03/2026 03:35:00,18,préparatoire intégrée,2nd,Mathematics,Less than 5 hours,More than 6 hours,no,0,More than 30 hours,yes,moderate,9
+09/02/2026 16:13:00,21,licence,3rd,Sociology,7–8 hours,4–6 hours,no,0,Less than 10 hours,yes,low,2
+09/03/2026 06:05:00,21,cycle d'ingénieur,1st,Data science,Less than 5 hours,4–6 hours,no,0,More than 30 hours,no,high,8
+25/03/2026 00:13:00,21,cycle d'ingénieur,3rd,Mechanical engineering,5–6 hours,More than 6 hours,no,1,More than 30 hours,no,high,6
+01/01/2026 16:40:00,22,licence,2nd,Law,7–8 hours,2–4 hours,yes,3 or more,Less than 10 hours,yes,low,2
+12/02/2026 01:06:00,22,médecine,2nd,Neurology,7–8 hours,More than 6 hours,yes,1,10–20 hours,yes,low,2
+18/03/2026 16:17:00,22,cycle d'ingénieur,4th,Electrical engineering,5–6 hours,More than 6 hours,no,1,20–30 hours,no,high,8
+16/03/2026 15:25:00,23,cycle d'ingénieur,4th,Healthcare IT,7–8 hours,More than 6 hours,no,3 or more,More than 30 hours,no,high,9
+16/03/2026 19:03:00,32,mastère,2nd,Droit / law,5–6 hours,2–4 hours,no,0,Less than 10 hours,no,low,1
+30/03/2026 19:13:00,23,cycle d'ingénieur,3rd,Healthcare IT,5–6 hours,More than 6 hours,no,1,Less than 10 hours,no,moderate,4
+05/02/2026 10:00:00,20,Bachelor degree at TBS,1st,International business,More than 8 hours,Less than 2 hours,yes,0,Less than 10 hours,yes,low,1
+22/02/2026 13:33:00,25,licence,3rd,Sociology,5–6 hours,2–4 hours,yes,1,20–30 hours,no,moderate,1
+09/04/2026 01:08:00,24,mastère,1st,AI & machine learning,7–8 hours,More than 6 hours,no,0,20–30 hours,no,high,5
+29/01/2026 22:53:00,18,médecine,4th,Cardiology,5–6 hours,Less than 2 hours,no,0,More than 30 hours,no,high,8
+02/03/2026 03:51:00,23,cycle d'ingénieur,2nd,Mechanical engineering,7–8 hours,More than 6 hours,yes,1,10–20 hours,no,high,7
+22/03/2026 02:56:00,27,mastère,1st,Droit / law,7–8 hours,More than 6 hours,yes,2,Less than 10 hours,yes,low,6
+19/02/2026 13:11:00,22,cycle d'ingénieur,3rd,Industrial computer science,7–8 hours,More than 6 hours,no,1,10–20 hours,no,high,9
+06/01/2026 02:04:00,19,Bachelor degree at TBS,1st,International business,5–6 hours,More than 6 hours,no,2,10–20 hours,no,high,8
+28/02/2026 01:58:00,25,cycle d'ingénieur,4th,Telecommunications engineering,5–6 hours,2–4 hours,no,1,20–30 hours,yes,low,5
+26/02/2026 02:11:00,19,préparatoire intégrée,1st,Mathematics,Less than 5 hours,More than 6 hours,no,1,10–20 hours,yes,moderate,6
+22/02/2026 23:56:00,18,préparatoire intégrée,2nd,Physics,5–6 hours,2–4 hours,yes,0,Less than 10 hours,no,low,5
+08/04/2026 03:06:00,27,cycle d'ingénieur,1st,Cybersecurity,5–6 hours,Less than 2 hours,no,0,Less than 10 hours,yes,low,5
+21/03/2026 14:54:00,20,cycle d'ingénieur,5th,Healthcare IT,5–6 hours,4–6 hours,no,1,20–30 hours,no,high,5
+24/03/2026 18:21:00,22,licence,2nd,Law,5–6 hours,4–6 hours,yes,1,20–30 hours,no,high,10
+08/03/2026 11:46:00,19,licence,1st,Philosophy,Less than 5 hours,2–4 hours,no,0,20–30 hours,no,high,9
+28/03/2026 04:53:00,26,cycle d'ingénieur,1st,Software engineering,Less than 5 hours,More than 6 hours,no,2,More than 30 hours,yes,moderate,10
+02/02/2026 01:54:00,18,préparatoire intégrée,1st,AI,7–8 hours,Less than 2 hours,no,1,Less than 10 hours,yes,low,4
+20/02/2026 15:44:00,21,licence,2nd,Physics,More than 8 hours,2–4 hours,yes,1,More than 30 hours,no,low,3
+24/01/2026 04:41:00,31,mastère,2nd,Finance & banking,7–8 hours,More than 6 hours,yes,0,Less than 10 hours,no,low,5
+19/01/2026 00:06:00,27,licence,1st,Philosophy,5–6 hours,More than 6 hours,no,0,Less than 10 hours,no,low,1
+10/02/2026 01:40:00,38,doctorat,1st,Materials science,More than 8 hours,More than 6 hours,no,0,10–20 hours,no,moderate,4
+13/01/2026 11:44:00,27,doctorat,1st,Architecture and urban planning,Less than 5 hours,More than 6 hours,no,0,10–20 hours,no,moderate,4
+23/02/2026 08:44:00,29,doctorat,2nd,Architecture and urban planning,5–6 hours,More than 6 hours,no,1,More than 30 hours,no,high,8
+27/02/2026 01:41:00,23,licence,2nd,Physics,7–8 hours,4–6 hours,no,0,Less than 10 hours,no,low,2
+07/04/2026 07:22:00,17,licence,2nd,Accounting,Less than 5 hours,4–6 hours,no,3 or more,20–30 hours,yes,high,10
+22/02/2026 22:14:00,20,licence,2nd,Web development,5–6 hours,More than 6 hours,no,1,10–20 hours,yes,low,2
+17/02/2026 17:42:00,28,mastère,1st,AI & machine learning,5–6 hours,More than 6 hours,no,1,Less than 10 hours,yes,moderate,10
+31/01/2026 23:01:00,22,cycle d'ingénieur,5th,Computer science,Less than 5 hours,2–4 hours,yes,0,10–20 hours,no,moderate,5
+28/02/2026 10:47:00,26,cycle d'ingénieur,3rd,Healthcare IT,Less than 5 hours,More than 6 hours,yes,0,10–20 hours,no,low,4
+14/03/2026 00:12:00,23,cycle d'ingénieur,2nd,Healthcare IT,5–6 hours,More than 6 hours,no,1,Less than 10 hours,no,low,2
+13/01/2026 11:59:00,21,licence,1st,Physics,Less than 5 hours,More than 6 hours,no,0,Less than 10 hours,yes,moderate,9
+24/03/2026 08:21:00,28,doctorat,2nd,Environmental science,5–6 hours,More than 6 hours,no,0,10–20 hours,no,high,7
+11/01/2026 07:46:00,25,cycle d'ingénieur,5th,Industrial computer science,5–6 hours,More than 6 hours,no,3 or more,10–20 hours,no,moderate,8
+31/01/2026 15:33:00,26,mastère,2nd,Environmental science,5–6 hours,4–6 hours,yes,0,More than 30 hours,yes,low,4
+12/01/2026 11:44:00,22,médecine,5th,Surgery,7–8 hours,Less than 2 hours,no,0,More than 30 hours,no,low,2
+11/03/2026 13:45:00,24,médecine,1st,Neurology,Less than 5 hours,More than 6 hours,no,1,20–30 hours,yes,high,10
+10/01/2026 04:43:00,27,médecine,4th,Neurology,Less than 5 hours,2–4 hours,no,1,10–20 hours,no,high,10
+07/03/2026 19:48:00,17,licence,3rd,Sociology,Less than 5 hours,4–6 hours,no,3 or more,10–20 hours,yes,moderate,8
+06/01/2026 13:16:00,29,doctorat,3rd,Materials science,5–6 hours,2–4 hours,yes,0,More than 30 hours,no,high,6
+31/01/2026 03:31:00,21,licence,2nd,Physics,Less than 5 hours,More than 6 hours,no,2,20–30 hours,yes,low,7
+02/01/2026 03:04:00,23,cycle d'ingénieur,2nd,Cybersecurity,7–8 hours,2–4 hours,yes,3 or more,Less than 10 hours,yes,low,3
+15/02/2026 09:52:00,23,mastère,2nd,Telecom & networks,7–8 hours,4–6 hours,no,1,More than 30 hours,no,low,5
+01/04/2026 00:46:00,25,licence,3rd,History,7–8 hours,4–6 hours,no,2,10–20 hours,no,moderate,3
+18/02/2026 05:27:00,20,cycle d'ingénieur,4th,Biomedical engineering,5–6 hours,2–4 hours,yes,3 or more,10–20 hours,no,moderate,6
+15/03/2026 12:04:00,21,licence,2nd,Mathematics,5–6 hours,More than 6 hours,yes,1,20–30 hours,no,low,1
+22/02/2026 01:17:00,18,préparatoire intégrée,2nd,Computer science,5–6 hours,2–4 hours,yes,1,Less than 10 hours,yes,low,5
+02/04/2026 03:49:00,19,préparatoire intégrée,1st,Mathematics,5–6 hours,Less than 2 hours,yes,0,More than 30 hours,no,low,4
+21/01/2026 16:32:00,19,licence,1st,Law,7–8 hours,Less than 2 hours,no,0,20–30 hours,yes,low,2
+07/03/2026 18:22:00,19,licence,2nd,Psychology,More than 8 hours,More than 6 hours,no,3 or more,10–20 hours,yes,high,10
+10/04/2026 16:03:00,24,cycle d'ingénieur,2nd,Cybersecurity,7–8 hours,4–6 hours,no,3 or more,20–30 hours,no,high,7
+20/02/2026 20:14:00,24,mastère,1st,Graphic design,5–6 hours,4–6 hours,no,1,20–30 hours,no,high,9
+05/04/2026 22:14:00,20,cycle d'ingénieur,5th,Electrical engineering,Less than 5 hours,More than 6 hours,no,0,More than 30 hours,no,moderate,5
+03/02/2026 23:02:00,19,cycle d'ingénieur,5th,Healthcare IT,7–8 hours,2–4 hours,yes,1,20–30 hours,no,moderate,3
+02/01/2026 09:57:00,35,doctorat,2nd,Architecture and urban planning,Less than 5 hours,More than 6 hours,no,2,Less than 10 hours,no,moderate,5
+03/04/2026 08:56:00,23,cycle d'ingénieur,3rd,Computer science,7–8 hours,More than 6 hours,no,1,20–30 hours,no,moderate,6
+16/02/2026 19:14:00,22,cycle d'ingénieur,5th,Industrial computer science,Less than 5 hours,4–6 hours,no,0,More than 30 hours,no,low,3
+26/01/2026 02:31:00,24,cycle d'ingénieur,2nd,Civil engineering,Less than 5 hours,2–4 hours,no,3 or more,10–20 hours,yes,high,10
+01/04/2026 20:42:00,18,licence,1st,Network security,7–8 hours,2–4 hours,yes,2,20–30 hours,no,moderate,6
+30/03/2026 15:55:00,20,médecine,6th,Pediatrics,Less than 5 hours,4–6 hours,yes,3 or more,More than 30 hours,yes,high,7
+24/03/2026 07:02:00,29,mastère,2nd,Droit / law,7–8 hours,4–6 hours,yes,0,10–20 hours,no,moderate,4
+23/02/2026 16:20:00,19,cycle d'ingénieur,5th,Cybersecurity,More than 8 hours,2–4 hours,no,1,Less than 10 hours,no,low,2
+10/01/2026 20:15:00,21,cycle d'ingénieur,3rd,Embedded systems,Less than 5 hours,2–4 hours,no,2,Less than 10 hours,yes,moderate,7
+19/01/2026 05:23:00,18,préparatoire intégrée,2nd,Chemistry,More than 8 hours,2–4 hours,yes,2,Less than 10 hours,no,low,3
+20/01/2026 19:30:00,22,pharmacie,4th,Industrial pharmacy,7–8 hours,4–6 hours,no,3 or more,20–30 hours,no,high,5
+04/04/2026 10:27:00,18,préparatoire intégrée,1st,Computer science,5–6 hours,4–6 hours,yes,1,20–30 hours,yes,low,6
+01/02/2026 05:50:00,21,mastère,2nd,Droit / law,5–6 hours,2–4 hours,yes,1,20–30 hours,no,moderate,4
+27/03/2026 03:25:00,21,licence,2nd,Philosophy,Less than 5 hours,2–4 hours,no,3 or more,10–20 hours,yes,high,10
+03/02/2026 01:27:00,24,cycle d'ingénieur,2nd,Biomedical engineering,7–8 hours,4–6 hours,no,1,20–30 hours,no,high,8
+21/03/2026 06:27:00,23,licence,1st,Finance,Less than 5 hours,2–4 hours,yes,1,Less than 10 hours,yes,moderate,7
+30/03/2026 06:53:00,21,préparatoire intégrée,1st,Physics,7–8 hours,2–4 hours,yes,0,20–30 hours,yes,high,5
+25/01/2026 20:48:00,19,licence,1st,Law,More than 8 hours,4–6 hours,yes,2,10–20 hours,yes,high,6
+02/01/2026 01:14:00,22,mastère,2nd,Environmental science,5–6 hours,More than 6 hours,yes,1,10–20 hours,yes,moderate,10
+12/03/2026 20:37:00,21,licence,2nd,Web development,7–8 hours,4–6 hours,yes,3 or more,Less than 10 hours,yes,low,5
+05/01/2026 00:01:00,22,cycle d'ingénieur,2nd,Robotics,Less than 5 hours,More than 6 hours,no,0,10–20 hours,yes,high,8
+12/02/2026 14:24:00,25,cycle d'ingénieur,5th,Civil engineering,More than 8 hours,2–4 hours,yes,3 or more,10–20 hours,yes,low,6
+07/04/2026 11:33:00,26,mastère,2nd,Cybersecurity,7–8 hours,2–4 hours,yes,1,Less than 10 hours,yes,low,6
+04/01/2026 08:24:00,19,licence,2nd,Mathematics,Less than 5 hours,4–6 hours,no,0,More than 30 hours,no,moderate,3
+04/01/2026 16:05:00,25,cycle d'ingénieur,5th,Data science,5–6 hours,More than 6 hours,no,2,More than 30 hours,yes,high,8
+04/02/2026 16:43:00,20,cycle d'ingénieur,3rd,Industrial computer science,7–8 hours,Less than 2 hours,yes,1,Less than 10 hours,yes,low,6
+06/01/2026 21:13:00,23,cycle d'ingénieur,5th,Biomedical engineering,7–8 hours,Less than 2 hours,yes,2,Less than 10 hours,yes,low,2
+03/01/2026 08:18:00,22,licence,3rd,Physics,7–8 hours,4–6 hours,yes,1,10–20 hours,yes,low,2
+25/03/2026 19:39:00,23,cycle d'ingénieur,4th,Data science,7–8 hours,More than 6 hours,yes,1,Less than 10 hours,yes,low,6
+09/02/2026 20:06:00,28,cycle d'ingénieur,3rd,Biomedical engineering,5–6 hours,More than 6 hours,no,1,10–20 hours,no,moderate,9
+12/01/2026 17:38:00,24,licence,3rd,Psychology,7–8 hours,2–4 hours,no,2,More than 30 hours,no,high,6
+02/03/2026 06:04:00,21,licence,3rd,Psychology,5–6 hours,More than 6 hours,no,3 or more,10–20 hours,no,low,1
+08/03/2026 19:10:00,22,cycle d'ingénieur,3rd,Industrial computer science,7–8 hours,More than 6 hours,yes,3 or more,10–20 hours,yes,low,7
+25/01/2026 15:42:00,22,cycle d'ingénieur,1st,Mechanical engineering,More than 8 hours,More than 6 hours,yes,2,20–30 hours,yes,low,5
+15/03/2026 02:13:00,19,préparatoire intégrée,2nd,Chemistry,More than 8 hours,2–4 hours,no,1,20–30 hours,no,high,9
+11/01/2026 18:09:00,18,préparatoire intégrée,1st,Computer science,Less than 5 hours,More than 6 hours,no,1,10–20 hours,yes,moderate,6
+02/01/2026 07:05:00,23,mastère,1st,Graphic design,Less than 5 hours,4–6 hours,no,0,More than 30 hours,yes,moderate,10
+23/01/2026 07:16:00,26,mastère,2nd,Droit / law,7–8 hours,4–6 hours,yes,0,Less than 10 hours,yes,moderate,4
+20/03/2026 19:21:00,23,cycle d'ingénieur,2nd,Healthcare IT,Less than 5 hours,2–4 hours,no,1,20–30 hours,no,moderate,6
+14/01/2026 03:54:00,30,doctorat,3rd,Computer science,Less than 5 hours,4–6 hours,no,1,Less than 10 hours,no,high,10
+23/02/2026 21:59:00,21,licence,1st,Économie,5–6 hours,More than 6 hours,no,1,More than 30 hours,no,high,9
+18/01/2026 15:08:00,23,licence,2nd,Web development,7–8 hours,2–4 hours,no,2,More than 30 hours,yes,moderate,8
+04/04/2026 08:11:00,22,licence,2nd,Informatique de gestion,7–8 hours,More than 6 hours,no,0,10–20 hours,yes,moderate,4
+29/03/2026 17:43:00,18,licence,3rd,Marketing,7–8 hours,2–4 hours,no,0,20–30 hours,yes,high,10
+12/01/2026 19:58:00,24,mastère,2nd,Environmental science,7–8 hours,More than 6 hours,no,1,More than 30 hours,no,high,4
+29/01/2026 14:14:00,21,préparatoire intégrée,2nd,Engineering sciences,5–6 hours,2–4 hours,no,0,20–30 hours,no,low,4
+10/04/2026 18:17:00,24,licence,1st,Informatique de gestion,7–8 hours,More than 6 hours,no,2,Less than 10 hours,no,low,3
+09/03/2026 14:59:00,18,licence,1st,English,7–8 hours,4–6 hours,no,1,10–20 hours,yes,moderate,7
+28/01/2026 08:01:00,23,licence,2nd,Accounting,7–8 hours,4–6 hours,yes,3 or more,Less than 10 hours,yes,low,7
+05/02/2026 01:56:00,26,cycle d'ingénieur,1st,Civil engineering,Less than 5 hours,More than 6 hours,no,1,20–30 hours,no,moderate,6
+06/03/2026 07:26:00,24,pharmacie,1st,Clinical pharmacy,Less than 5 hours,More than 6 hours,no,1,20–30 hours,yes,high,8
+05/02/2026 22:58:00,26,mastère,2nd,Business law,5–6 hours,2–4 hours,yes,0,10–20 hours,yes,high,4
+29/03/2026 11:46:00,26,cycle d'ingénieur,5th,Robotics,7–8 hours,4–6 hours,yes,2,Less than 10 hours,no,low,5
+22/01/2026 21:19:00,25,mastère,1st,Graphic design,5–6 hours,More than 6 hours,no,2,20–30 hours,no,high,7
+06/03/2026 02:19:00,23,licence,3rd,Accounting,7–8 hours,4–6 hours,yes,0,Less than 10 hours,no,moderate,4
+17/01/2026 08:19:00,20,médecine,2nd,Neurology,5–6 hours,More than 6 hours,no,3 or more,Less than 10 hours,yes,low,9
+12/01/2026 21:41:00,21,préparatoire intégrée,1st,Biology,5–6 hours,2–4 hours,no,0,20–30 hours,no,high,8
+19/01/2026 20:31:00,24,licence,3rd,Chemistry,7–8 hours,2–4 hours,no,2,Less than 10 hours,no,low,6
+13/03/2026 10:12:00,20,pharmacie,5th,Clinical pharmacy,7–8 hours,4–6 hours,no,2,20–30 hours,yes,high,7
+07/03/2026 20:54:00,21,cycle d'ingénieur,4th,Mechanical engineering,5–6 hours,4–6 hours,no,0,10–20 hours,yes,low,1
+13/01/2026 18:51:00,21,Bachelor degree at TBS,2nd,Entrepreneurship,More than 8 hours,More than 6 hours,no,0,More than 30 hours,no,high,7
+10/01/2026 06:49:00,20,cycle d'ingénieur,3rd,Cybersecurity,5–6 hours,4–6 hours,no,0,Less than 10 hours,yes,low,2
+07/03/2026 19:53:00,18,préparatoire intégrée,2nd,Mathematics,5–6 hours,2–4 hours,no,2,More than 30 hours,yes,moderate,7
+16/01/2026 15:37:00,21,cycle d'ingénieur,3rd,Computer science,7–8 hours,2–4 hours,yes,1,Less than 10 hours,no,low,3
+30/03/2026 07:10:00,17,licence,1st,Marketing,7–8 hours,2–4 hours,yes,2,Less than 10 hours,yes,high,6
+02/02/2026 01:15:00,27,médecine,1st,Pediatrics,More than 8 hours,2–4 hours,no,1,Less than 10 hours,no,low,3
+06/03/2026 11:18:00,22,cycle d'ingénieur,4th,Industrial computer science,More than 8 hours,2–4 hours,yes,1,10–20 hours,no,low,1
+07/02/2026 04:25:00,25,mastère,1st,Cybersecurity,5–6 hours,4–6 hours,no,0,20–30 hours,yes,moderate,10
+22/01/2026 10:53:00,18,licence,1st,Accounting,7–8 hours,4–6 hours,no,3 or more,10–20 hours,yes,high,7
+05/03/2026 08:14:00,20,licence,2nd,Sciences de gestion,Less than 5 hours,2–4 hours,no,2,10–20 hours,yes,high,8
+06/03/2026 18:48:00,22,cycle d'ingénieur,4th,Telecommunications engineering,7–8 hours,2–4 hours,no,0,10–20 hours,no,high,10
+02/01/2026 21:14:00,22,licence,3rd,Biotechnology,5–6 hours,2–4 hours,yes,1,Less than 10 hours,no,moderate,6
+24/02/2026 14:40:00,22,cycle d'ingénieur,5th,Software engineering,7–8 hours,2–4 hours,yes,1,10–20 hours,no,moderate,3
+16/01/2026 23:07:00,20,licence,2nd,Chemistry,7–8 hours,2–4 hours,yes,3 or more,20–30 hours,yes,moderate,7
+16/02/2026 14:16:00,23,cycle d'ingénieur,1st,Healthcare IT,Less than 5 hours,More than 6 hours,no,2,20–30 hours,yes,high,9
+27/02/2026 08:52:00,28,cycle d'ingénieur,5th,Software engineering,More than 8 hours,4–6 hours,yes,1,20–30 hours,no,low,2
+23/03/2026 02:54:00,20,licence,2nd,Biotechnology,7–8 hours,4–6 hours,yes,2,Less than 10 hours,yes,low,4
+09/04/2026 03:43:00,29,mastère,1st,Graphic design,More than 8 hours,Less than 2 hours,no,1,20–30 hours,no,moderate,4
+28/01/2026 13:42:00,24,cycle d'ingénieur,5th,Industrial computer science,7–8 hours,2–4 hours,no,1,20–30 hours,yes,low,5
+05/04/2026 02:01:00,25,cycle d'ingénieur,3rd,Industrial computer science,7–8 hours,Less than 2 hours,no,2,20–30 hours,no,moderate,7
+24/01/2026 15:56:00,25,cycle d'ingénieur,3rd,Data science,7–8 hours,More than 6 hours,yes,3 or more,20–30 hours,no,high,5
+25/01/2026 11:24:00,21,cycle d'ingénieur,1st,Mechanical engineering,Less than 5 hours,More than 6 hours,yes,0,Less than 10 hours,no,low,4
+14/01/2026 20:55:00,19,préparatoire intégrée,2nd,Mathematics,5–6 hours,2–4 hours,yes,1,20–30 hours,no,moderate,2
+14/01/2026 11:08:00,24,cycle d'ingénieur,1st,Data science,Less than 5 hours,4–6 hours,no,3 or more,Less than 10 hours,yes,moderate,9
+17/02/2026 04:00:00,26,cycle d'ingénieur,4th,Cybersecurity,Less than 5 hours,2–4 hours,no,3 or more,Less than 10 hours,no,high,7
+11/02/2026 07:32:00,19,préparatoire intégrée,2nd,Engineering sciences,Less than 5 hours,Less than 2 hours,no,0,10–20 hours,no,moderate,3
+23/01/2026 10:00:00,25,cycle d'ingénieur,5th,Biomedical engineering,More than 8 hours,Less than 2 hours,yes,3 or more,10–20 hours,yes,moderate,6
+26/02/2026 18:06:00,25,cycle d'ingénieur,5th,Cybersecurity,Less than 5 hours,2–4 hours,yes,2,10–20 hours,yes,moderate,6
+18/03/2026 08:38:00,22,cycle d'ingénieur,4th,Biomedical engineering,More than 8 hours,2–4 hours,yes,2,Less than 10 hours,yes,low,1
+13/02/2026 09:56:00,24,cycle d'ingénieur,1st,Telecommunications engineering,5–6 hours,2–4 hours,no,2,10–20 hours,yes,moderate,8
+02/03/2026 17:57:00,22,licence,3rd,Accounting,More than 8 hours,4–6 hours,no,2,Less than 10 hours,yes,low,1
+24/02/2026 08:41:00,26,mastère,1st,AI & machine learning,Less than 5 hours,Less than 2 hours,yes,1,20–30 hours,no,low,1
+19/03/2026 18:00:00,19,licence,2nd,Économie,Less than 5 hours,4–6 hours,no,2,10–20 hours,no,moderate,8
+19/01/2026 04:38:00,27,mastère,1st,AI & machine learning,5–6 hours,4–6 hours,no,0,Less than 10 hours,no,moderate,6
+03/01/2026 03:15:00,21,Bachelor degree at TBS,1st,Business administration,5–6 hours,2–4 hours,no,0,10–20 hours,yes,moderate,9
+04/04/2026 10:54:00,21,cycle d'ingénieur,1st,Industrial computer science,More than 8 hours,More than 6 hours,no,1,Less than 10 hours,no,low,2
+30/03/2026 20:07:00,22,licence,3rd,Web development,Less than 5 hours,4–6 hours,yes,1,20–30 hours,yes,moderate,9
